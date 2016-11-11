@@ -1,6 +1,7 @@
 source 'http://gems.ruby-china.org/' #'https://rubygems.org'
 
 gem 'slim-rails', '3.1.1'
+gem 'bootstrap-sass', '3.3.7'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
 # Use Puma as the app server

@@ -16,6 +16,6 @@ module AccountBook
   	  g.template_engine :slim
 	end
 
-	config.sass.preferred_syntax= :scss
+	config.sass.preferred_syntax= :sass
   end
 end
